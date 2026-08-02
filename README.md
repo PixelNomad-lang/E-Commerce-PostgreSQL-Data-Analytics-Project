@@ -139,7 +139,8 @@ Then execute the queries from the **queries** folder.
 
 # 📄 ER Diagram
 
-(Add ER Diagram here)
+<img width="1587" height="859" alt="image" src="https://github.com/user-attachments/assets/9cee9b7b-b2b6-41bb-852e-833c90d0578b" />
+
 
 ---
 
