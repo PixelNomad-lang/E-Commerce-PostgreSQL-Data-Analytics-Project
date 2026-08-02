@@ -133,7 +133,8 @@ Then execute the queries from the **queries** folder.
 
 # 📸 Screenshots
 
-(Add screenshots here)
+<img width="547" height="122" alt="image" src="https://github.com/user-attachments/assets/8f55da85-df68-46db-befc-31292e52cc85" />
+
 
 ---
 
