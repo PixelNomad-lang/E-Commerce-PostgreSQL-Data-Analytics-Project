@@ -9,4 +9,10 @@ FROM customers
 GROUP BY city_name;
 
 ----------------------------------------------------
+-- Q3 How to  get  total revenue  ----
+Select 
+  SUM (quantity * price) as total_revenue
+from orders;
+
+------------------------------------------------------
 
