@@ -152,6 +152,6 @@ Then execute the queries from the **queries** folder.
 GitHub:
 https://github.com/PixelNomad-lang
 LINK:
-https://graceful-cactus-8e94a4.netlify.app/
+[https://graceful-cactus-8e94a4.netlify.app/](https://extraordinary-cajeta-658474.netlify.app/#insights)
 
 ---
