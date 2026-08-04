@@ -1,4 +1,4 @@
-# 🛒 E-Commerce PostgreSQL Data Analytics Project
+# 🛒 E-Commerce PostgreSQL Data Analytics Project.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-green)
